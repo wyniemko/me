@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Brady Wyniemko</title>
+    <meta property="og:type" content="website">
+    <meta name="description" content="Student, Designer, Developer.">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/android-chrome-512x512.png">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alata&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Average+Sans&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
+<meta name="google-site-verification" content="dgHq9AQwlHD0a1pH6uG0KhTunOJbthmYe9beV5D1lq0" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPXLPL8KL1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GPXLPL8KL1');
+</script>
+</head>
+
+<body style="background: rgb(0,0,0);">
+    <header class="p-sm-5 p-4" style="background: #000000;padding-bottom: 0px;margin-bottom: -7px;">
+        <div class="row">
+            <div class="col">
+                <p class="lead" style="color: rgb(255,255,255);height: 39px;font-family: Alata, sans-serif;font-size: 26px;margin-top: 3px;letter-spacing: 1px;padding-top: 0px;text-align: center;padding-bottom: 0px;">Brady Wyniemko<br></p>
+                <p class="lead" style="color: rgb(204,204,204);height: 39px;font-family: Alata, sans-serif;font-size: 17px;margin-top: -12px;letter-spacing: 1px;padding-top: 0px;text-align: center;padding-bottom: 0px;">Student, Developer, Designer<br></p>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-bottom: 28px;padding-left: 0px;">
+            <div class="col-12 col-sm-auto text-center text-sm-right" style="padding: 0px;"><img src="assets/img/me%20copy.png" style="height: 126px;margin: 0px;width: 130px;padding: 0px;padding-right: 0px;padding-left: 0px;"></div>
+            <div class="col-auto text-center text-sm-left align-self-center mt-3 mt-sm-0" style="margin: -2px;padding: 0px;width: 185.547px;height: 123px;padding-left: 0px;">
+                <p class="lead" style="color: rgb(204,204,204);height: 30;font-family: Alata, sans-serif;font-size: 17px;"></p>
+                <p class="lead" style="color: rgb(204,204,204);height: 30;font-family: Alata, sans-serif;font-size: 17px;margin-top: -12px;letter-spacing: 1px;text-align: center;"><a href="index.html" style="color: rgb(204,204,204);">Home&nbsp;📡</a><br></p>
+                <p class="lead" style="color: rgb(204,204,204);height: 30;font-family: Alata, sans-serif;font-size: 17px;margin-top: -12px;letter-spacing: 1px;text-align: center;"><a href="resume.html" style="color: rgb(204,204,204);">Resume 🗂</a><br></p>
+                <p class="lead" style="color: rgb(204,204,204);height: 30;font-family: Alata, sans-serif;font-size: 17px;margin-top: -12px;letter-spacing: 1px;text-align: center;"><a href="projects.html" style="color: rgb(204,204,204);">Projects&nbsp;🎯</a><br></p>
+                <p class="lead" style="color: rgb(204,204,204);height: 30;font-family: Alata, sans-serif;font-size: 17px;margin-top: -12px;letter-spacing: 1px;text-align: center;"><a href="newsletter.html" style="color: rgb(204,204,204);">Newsletter&nbsp;📮</a><br></p>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="padding-top: 5px;margin: 0;/*width: 300;*/">
+            <div class="col-auto text-center text-sm-left align-self-center mt-3 mt-sm-0" style="margin: 0;">
+                <section></section>
+                <p class="shadow-none" style="color: rgb(162,162,162);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;letter-spacing: 4px;padding-top: 0px;">EDUCATION</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 1;padding-top: 20px;margin-bottom: 9px;border-top-width: 0.1px;border-top-style: solid;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://purdue.edu" style="color: rgb(255,255,255);">Purdue University '23<br></a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;">B.S. Economics &amp; International Business</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 9px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://oxfordhigh.oxfordschools.org/" style="color: rgb(255,255,255);">Oxford High School '19<br></a></p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://suzhou.dulwich.org/" style="color: rgb(255,255,255);">Dulwich College Suzhou '16<br></a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;"></p>
+                <p class="shadow-none" style="color: rgb(162,162,162);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;letter-spacing: 4px;padding-top: 38px;">EXPERIENCES</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 1;padding-top: 20px;margin-bottom: 9px;border-top-width: 0.1px;border-top-style: solid;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://amway.com" style="color: rgb(255,255,255);">Amway</a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;">Global Omnichannel Logistics &amp; Global Trade Intern (2021)</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://bestbuy.com" style="color: rgb(255,255,255);">Best Buy</a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;">Seasonal Home Theater Sales Associate (2020)</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://amway.com" style="color: rgb(255,255,255);">Amway</a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;">Global Procurement Intern (2020)</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://www.boulderpointe.net/" style="color: rgb(255,255,255);">Boulder Pointe Golf Club</a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;">Outdoor Service Manager (2017-2019)</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://www.toolalliance.com/" style="color: rgb(255,255,255);">Tool Alliance</a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;">Data Restructuring Intern (2018)</p>
+                <p class="shadow-none" style="color: rgb(162,162,162);font-size: 17px;line-height: 22px;height: 14;text-align: left;font-family: Alata, sans-serif;letter-spacing: 4px;padding-top: 38px;">CERTIFICATIONS</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 1;padding-top: 20px;margin-bottom: 9px;border-top-width: 0.1px;border-top-style: solid;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://iassc.org/six-sigma-certification/yellow-belt-certification/" style="color: rgb(255,255,255);">Lean Six Sigma Yellow Belt<br></a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;">Amway</p>
+                <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: left;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><a href="https://www.michigan.gov/mde/0,4615,7-140-81351-456570--,00.html" style="color: rgb(255,255,255);">Michigan Seal of Biliteracy<br></a></p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;">State of Michigan</p>
+                <p style="color: rgb(204,204,204);font-size: 17px;line-height: 22px;height: 14;text-align: left;"></p>
+            </div>
+            <div class="w-100"></div>
+        </div>
+    </header>
+    <p style="color: rgb(255,255,255);line-height: 15px;font-size: 20px;height: 25;text-align: center;border-radius: 2;padding-top: 20px;margin-bottom: 9px;border-top-width: .2px;border-top-style: none;border-bottom-style: none;font-family: Alata, sans-serif;"><strong>↓&nbsp;</strong>Connect with me&nbsp;<strong>↓</strong></p>
+    <footer class="footer-basic" style="background: rgb(0,0,0);padding-top: 0px;">
+        <div class="social-icons" style="background: rgb(0,0,0);padding-top: 0px;padding-bottom: 0px;font-size: 9px;margin-top: 53px;"><a href="mailto:bwyniemko@gmail.com" style="color: rgb(204,204,204);"></a><a href="mailto:bwyniemko@gmail.com" style="color: rgb(204,204,204);"><i class="icon ion-ios-email" style="color: rgb(204,204,204);"></i></a><a href="https://www.linkedin.com/in/bradywyniemko/" style="color: rgb(204,204,204);"><i class="icon ion-social-linkedin" style="color: rgb(204,204,204);"></i></a><a href="https://twitter.com/bwyniemko" style="color: rgb(204,204,204);"><i class="icon ion-social-twitter" style="color: rgb(204,204,204);"></i></a><a href="https://www.instagram.com/brady.wyniemko/" style="color: rgb(204,204,204);"><i class="fab fa-instagram" style="color: rgb(204,204,204);"></i></a></div>
+        <p class="copyright" style="color: rgb(255,255,255);font-family: Alata, sans-serif;padding-bottom: 25px;padding-top: 20px;"><a href="https://bit.ly/3tkVCOK" style="color: rgb(255,255,255);">Brady Wyniemko</a>&nbsp;© 2021</p>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="assets/js/script.min.js"></script>
+</body>
+
+</html>
